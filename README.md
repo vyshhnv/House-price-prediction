@@ -65,9 +65,6 @@ Deployment
 
 The tuned model is deployed using Streamlit.
 
-Run the application:
-streamlit run app.py
-
 The application allows users to input house details and receive a predicted price.
 ________________________________________
 Tools Used
