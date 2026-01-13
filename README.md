@@ -12,9 +12,6 @@ Project Files
 House Price Prediction.csv   - Dataset  
 analysis.ipynb               - Model training, evaluation, and tuning  
 app.py                       - Streamlit application  
-model.pkl                    - Final trained model  
-scaler.pkl                   - StandardScaler  
-ohe.pkl                      - OneHotEncoder  
 README.md                    - Documentation  
 ________________________________________
 Dataset
