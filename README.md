@@ -4,7 +4,6 @@
 📌 Overview
 
 This project is an end-to-end Machine Learning application that predicts house prices using structured housing data.
-
 The workflow includes data preprocessing, training multiple regression models, evaluating their performance, selecting the best model, and deploying it using Streamlit.
 ________________________________________
 Project Files
